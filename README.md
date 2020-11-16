@@ -4,8 +4,9 @@
 <a href="#">
     <img src="https://simpleicons.org/icons/gnubash.svg?" width=5% />
   </a>
-  
+
 [![halitohf.gif](https://i.postimg.cc/ZKyrQbrR/halitohf.gif)](https://postimg.cc/w7gyyd48)
+
 <p align="center">
     
 <a href="#">
