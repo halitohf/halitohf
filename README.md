@@ -4,17 +4,18 @@
 <a href="#">
     <img src="https://simpleicons.org/icons/gnubash.svg?" width=5% />
   </a>
-
-[![halitohf.gif](https://i.postimg.cc/ZKyrQbrR/halitohf.gif)](https://postimg.cc/w7gyyd48)
-
+  
+[![head.png](https://i.postimg.cc/Mp8hYy1n/Agregar-un-t-tulo.png)](https://postimg.cc/JGP6rH68)
+      
 <p align="center">
     
-<a href="#">
-    <img src="https://img.shields.io/twitter/follow/halitohf?logo=twitter&logoColor=blue&style=social" />
-  </a>&nbsp;
-<a href="#">
-    <img src="https://img.shields.io/github/followers/halitohf?style=social&logo=github&logoColor=purple" />
-  </a>&nbsp;
+   <a href="#">
+        <img src="https://img.shields.io/twitter/follow/halitohf?logo=twitter&logoColor=blue&style=social" />
+   </a>&nbsp;
+  
+   <a href="#">
+        <img src="https://img.shields.io/github/followers/halitohf?style=social&logo=github&logoColor=purple" />
+    </a>&nbsp;
 </p>
 
 <p align="center">
