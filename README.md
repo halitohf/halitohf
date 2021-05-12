@@ -1,9 +1,5 @@
 ## HI, I am José
 #### by: halitohf
-
-<a href="#">
-    <img src="https://simpleicons.org/icons/gnubash.svg?" width=5% />
-  </a>
   
 [![head.png](https://i.postimg.cc/Mp8hYy1n/Agregar-un-t-tulo.png)](https://postimg.cc/JGP6rH68)
       
