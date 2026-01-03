@@ -21,4 +21,3 @@
     <img src="https://img.shields.io/badge/GIT_&-GITHUB-black" />
 </p>
 
-![halitohf github stats](https://github-readme-stats.vercel.app/api?username=halitohf&show_icons=true&bg_color=000000&text_color=ffffff&title_color=ffffff&icon_color=ffffff)
